@@ -8,4 +8,4 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - [Adicione aqui mais 3 comandos que você achou úteis]
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./iamge.png)
+![Foto do meu terminal](./image.png)
